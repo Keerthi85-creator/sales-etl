@@ -125,10 +125,5 @@ This project is structured to follow a data engineering and machine learning pip
 
 ---
 
-## **Contributors**
-- **Muntaqa Maahi**  
-  Data Engineer and Machine Learning Enthusiast
-
----
 
 [⬆️ Back to Top](#sales-forecasting-project)
